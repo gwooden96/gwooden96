@@ -27,7 +27,7 @@
 <p align="center" display="inline-block">
   <img src="https://github.com/gwooden96/ImageAdd/blob/main/Dev_lagu_icon/%EC%9E%90%EB%B0%94.png?raw=true"> 
     <img src="https://github.com/gwooden96/ImageAdd/blob/main/Dev_lagu_icon/%EC%8A%A4%ED%94%84%EB%A7%81.png?raw=true">
-    <img src="https://github.com/gwooden96/ImageAdd/blob/main/Dev_lagu_icon/%EB%A7%88%EB%A6%AC%EC%95%84db.png?raw=true">
+    <img src="https://github.com/gwooden96/ImageAdd/blob/main/Dev_lagu_icon/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4.png?raw=true">
     <img src="https://github.com/gwooden96/ImageAdd/blob/main/Dev_lagu_icon/%EC%98%A4%EB%9D%BC%ED%81%B4.png?raw=true">
 </p><br>
 
